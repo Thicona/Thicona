@@ -5,4 +5,6 @@ Até agora a minha parte preferida é a Linguagem de Marcação, quando você en
 -💻 [Meu Primeiro Script Python](https://github.com/Thicona/meu-primeiro-script-python.git)
 -💻 [Meu Primeiro Repositório](https://github.com/Thicona/meu-primeiro-repositorio.git)
 ## Ferramentas ⚒️
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
+
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+          
