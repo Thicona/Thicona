@@ -45,6 +45,10 @@ Onde me encontrar!!
   </a>
 </p>
 
+Obrigado pela atenção!! 🌷
+<p align="center" >
+          <img width="700" heigth="700" src="https://i.pinimg.com/736x/f6/17/30/f617300c112935bac6fdd5260f1db7c0.jpg"/>
+</p>
 
 <details/>
 
