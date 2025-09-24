@@ -1,4 +1,10 @@
-### Oii gentee! ✨
+
+<p align="center"> 
+           Oii gentee! ✨
+<p/>
+<p align="center"> 
+           내 프로필에 오신 것을 환영합니다 🌼
+<p/>
 
 
 <p align="center" >
