@@ -18,11 +18,10 @@
                       </samp>
            </sumary>
 
-## Sobre mim 
-Atualmente eu estudo com TI, Desenvolvimento de Sistema no SENAI de Osvaldo Cruz. 
-Até agora a minha parte preferida é a Linguagem de Marcação, quando você entende e prática cada vez mais, quando menos percebe, eu estou lá fazendo e ficando feliz pelo o que eu consegui.
 
-
+Sobre mim 🌱
+Oii, meu nome é Ana e esse é o meu perfil do github!
+Atualmente eu estudo na escola SESI de Osvaldo Cruz, e estou cursando no SENAI Desenvolvimento de Sistema, este é o meu primeiro ano, no começo do ano, eu estava muito ansiosa e ao mesmo tempo empolgada para o que viriam, aprender uma coisa nova, do zero, ao mesmo tempo se torna muito frustante mas legal e a satisfação de aprender uma coisa diferente fora do comum. A minha parte "preferida" é linguagem de marcação, no começo ela parece assutadora, mas depois de muita prática, você vê um outro lado dela e assim ela fica 100% interessante. 
 
 
 ## Ferramentas ⚒️
