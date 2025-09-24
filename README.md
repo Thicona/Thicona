@@ -1,6 +1,6 @@
 ### Oii gentee! ✨
 
-<imgwidth:"50" heigth:"50" scr="https://i.pinimg.com/736x/c7/12/89/c71289d1514eb1782ec55b2df1d067ed.jpg"?>
+<img width="50" heigth="50" src="https://i.pinimg.com/736x/c7/12/89/c71289d1514eb1782ec55b2df1d067ed.jpg"/>
 
 
 
