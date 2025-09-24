@@ -1,7 +1,9 @@
 ### Oii gentee! ✨
 
-<img width="50" heigth="50" src="https://i.pinimg.com/736x/c7/12/89/c71289d1514eb1782ec55b2df1d067ed.jpg"/>
 
+<p align="center" >
+          <img width="700" heigth="700" src="https://i.pinimg.com/736x/f6/17/30/f617300c112935bac6fdd5260f1db7c0.jpg"/>
+</p>
 
 
 
